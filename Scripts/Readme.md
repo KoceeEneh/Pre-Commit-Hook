@@ -75,6 +75,7 @@ git commit -m "test commit"
 ```
 
 output: 
+
 <img width="700" alt="Screenshot 2025-04-09 at 21 04 40" src="https://github.com/user-attachments/assets/560abf35-4ac8-415d-901a-4a81898947de" />
 
 ## Project Structure
